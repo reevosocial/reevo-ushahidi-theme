@@ -2,6 +2,10 @@
 
 Disponible en http://map.reevo.org
 
-## License
+## Licencia
 
 * AGPLv3
+
+## Creditos
+
+* Yaco <yaco@reevo.org>
